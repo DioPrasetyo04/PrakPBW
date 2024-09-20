@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Landing Page - Buku Tamu</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
     <h1> Selamat Datang di Buku Tamu</h1>
